@@ -348,4 +348,5 @@ scene:addEventListener( "destroy", scene )
 
 return scene
 
-
+-- Go to the main menu screen
+composer.gotoScene( "main_menu" )
